@@ -23,4 +23,4 @@ I am a final-year engineering student completing a double degree at **ISAE-Supae
 - **Open to work:** Seeking full-time AI/Data Scientist positions in defense, energy, or national sovereignty sectors.
 
 ### 📬 Let's connect
-[🔗 LinkedIn](https://www.linkedin.com/in/votre-profil) | ✉️ baptiste.dusollier@gmail.com
+[🔗 LinkedIn](https://www.linkedin.com/in/baptistedusollier/) | ✉️ baptiste.dusollier@gmail.com
