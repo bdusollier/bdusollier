@@ -14,8 +14,8 @@ I am a final-year engineering student completing a double degree at **ISAE-Supae
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 *   **Advanced AI/ML:** SDXL, FLUX.1, ControlNet, YOLO, DETR
-*   **HPC & Environment:** Slurm, ComfyUI, Google Cloud Platform, uv
-*   **Applied Math:** OpenTURNS, Monte Carlo, Bayesian regression
+*   **HPC & Environment:** Slurm, ComfyUI, Google Cloud Platform
+*   **Applied Math:** Monte Carlo, Bayesian regression
 
 ### 🔭 What I'm working on
 - Exploring domain adaptation between synthetic and real-world images.
